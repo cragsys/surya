@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/surya/static/css/main.e6c13ad2.css",
+    "main.js": "/surya/static/js/main.c5a18cdb.js",
+    "static/js/453.0c1c40eb.chunk.js": "/surya/static/js/453.0c1c40eb.chunk.js",
+    "index.html": "/surya/index.html",
+    "main.e6c13ad2.css.map": "/surya/static/css/main.e6c13ad2.css.map",
+    "main.c5a18cdb.js.map": "/surya/static/js/main.c5a18cdb.js.map",
+    "453.0c1c40eb.chunk.js.map": "/surya/static/js/453.0c1c40eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c5a18cdb.js"
+  ]
+}
